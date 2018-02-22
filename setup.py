@@ -33,7 +33,7 @@ setup(
         'Programming Language :: Python :: 3.6',
     ],
     description="assignment2b",
-    eentry_points={
+    entry_points={
         'console_scripts': [
             'comp30670_flask_platform1=flask_platform1.flask_platform1:main',
         ],
