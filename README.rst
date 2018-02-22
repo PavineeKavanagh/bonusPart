@@ -26,7 +26,7 @@ $ pip install git+https://github.com/PavineeKavanagh/comp30670_assignment2.git
 2. install flask_platform1 by:
 $ pip install git+https://github.com/PavineeKavanagh/bonusPart.git
 
-3. $ "\flask_platform1\flask_platform1>python run.py"
+3. flask_platform1.flask_platform1>$ python run.py
 
 Credits
 -------
